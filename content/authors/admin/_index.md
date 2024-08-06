@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD Culture Technology
     institution: Korea Advanced Institute of Science and Technology (KAIST)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2026-02-01 (expected)
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -63,8 +63,8 @@ education:
       url: 'https://example.com'
   - area: MEng Culture Technology
     institution: Korea Advanced Institute of Science and Technology (KAIST)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-09-01
+    date_end: 2022-08-31
     summary: |
       GPA: 4.06/4.2
 
