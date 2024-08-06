@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD Culture Technology
-    institution: KAIST
+    institution: Korea Advanced Institute of Science and Technology (KAIST)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,23 +61,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MEng Culture Technology
+    institution: Korea Advanced Institute of Science and Technology (KAIST)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.06/4.2
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS in Media and Communication
+    institution: Chung-Ang University
+    date_start: 2015-03-01
+    date_end: 2020-08-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.3/4.5
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -143,11 +143,9 @@ skills:
 
 languages:
   - name: English
+    percent: 90
+  - name: Korean
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
