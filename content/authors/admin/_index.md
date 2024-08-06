@@ -24,7 +24,7 @@ role: Ph.D.Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: kAIST UVR Lab
+  - name: KAIST UVR Lab
     url: https://uvrlab.org/
 
 # Social network links
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+She is a third-year Ph.D. Candidate at KAIST UVR Lab, studying avatar-mediated XR remote communication and empathic computing for AR/VR. As an HCI researcher, she aims to gain profound insights into how humans perceive and communicate within the emerging AR/VR technological landscape. Her ultimate goal is to leverage this understanding to drive advancements and improvements in AR/VR technology for enhanced human communication and experiences.
