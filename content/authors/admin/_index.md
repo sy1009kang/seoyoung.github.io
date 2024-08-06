@@ -69,9 +69,12 @@ education:
       GPA: 4.06/4.2
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Human Computer Interaction
+      - 3D Interaction Design
+      - Virtual Reality, Virtual World
+      - Augmented Reality
+      - Augmented Human
+      - Augmented Reality Project
   - area: BS in Media and Communication
     institution: Chung-Ang University
     date_start: 2015-03-01
